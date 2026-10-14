@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nibbrr.com/sitemap.xml
